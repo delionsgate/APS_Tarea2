@@ -3,6 +3,7 @@ Universidad Nacional Autónoma de México
 Facultad de Ingeniería
 Administración de Proyectos de Software
 Aguilar Corona Fernanda
+Arguello Leon Dante Moisés
 Núñez Quintana Luis Axel
 Zárate García Zuriel
 
