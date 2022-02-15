@@ -2,17 +2,21 @@
 #include <stdlib.h>
 
 int main() {
-    int n = 2;
-    int t,i,f;
+    int n = 2, t, i, f = 0, a = 0, b = 1;
 
-    printf("\n Holis. Cuantos terminos quieres obtener?  ->  ");
+    printf("\nHolis. %cCu%cntos t%crminos quieres obtener?  ->  ",168 ,160,130 );
     scanf("%d", &t);
-
-    for (i = 0; i < t-1; i++) {
-        f = (n - 1) + (n - 2);
-        printf("%d, ", f);
-        n++;
+    
+    if(t <= 0){
+        printf("Ingresaste un n%cmero inv%clido o cero, el programa finalizar%c",163 ,160 ,160);
+    }else{
+    	printf("%d", f);
+        for (i = 0; i < t - 1; i++) {
+            f = a + b;
+            a = b;
+            b = f;
+            printf(", %d", f);
+        }
     }
-    f = (n - 1) + (n - 2);
-    printf("%d", f);
+    return 0;
 }
