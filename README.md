@@ -4,6 +4,7 @@ Facultad de Ingeniería
 Administración de Proyectos de Software
 Aguilar Corona Fernanda
 Arguello Leon Dante Moisés
+De Dios Garcia Joahan Rodrigo
 Núñez Quintana Luis Axel
 Zárate García Zuriel
 
